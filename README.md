@@ -1,4 +1,4 @@
-# A simple project written in college (mouse move)
+# A simple project written in college (pizza App)
 
 I have created a simple application that shows who and how many pizzas should be ordered based on the number of people. I used useState and then Redux.
 
